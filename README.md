@@ -1,29 +1,28 @@
-# README #
+#Python  Week-1 assignment
+This repository contains solution for week-1 Python assignment
 
-This README would normally document whatever steps are necessary to get your application up and running.
+The programs demonstrate important Python concepts such as:
 
-### What is this repository for? ###
+Generators
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+Iterators
 
-### How do I get set up? ###
+List Comprehension
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+Tuples
 
-### Contribution guidelines ###
+All program take input from the user through the command line.
 
-* Writing tests
-* Code review
-* Other guidelines
+#problem implemented 
+1.Generate fibonacci numbers using Generator
+2.Iterate a list in reverse direction using a custom Iterator Class
+3.Print Prime Numbers using List Comprehension
+4.Convert a list into a list of tuples (index, value)
 
-### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+#Python version 
+Python 3.11
+
+
+
+
