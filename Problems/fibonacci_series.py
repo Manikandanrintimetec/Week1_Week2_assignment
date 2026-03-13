@@ -7,7 +7,6 @@ def fibonacci(n):
         count += 1
 
 num = int(input("Enter the number: "))
-
 print("fibonacci series: ")
 for i in fibonacci(num):
     print(i, end=" ")
